@@ -1,0 +1,34 @@
+{
+  "name": "epic-tech-ai-enhancements",
+  "version": "1.0.0",
+  "description": "Enhancements for the Epic Tech AI chatbot interface",
+  "main": "src/js/enhancements.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir -p dist && cp -r src/* dist/",
+    "minify": "uglifyjs src/js/*.js -o dist/js/enhancements.min.js && cleancss src/css/*.css -o dist/css/theme-styles.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/epic-tech-ai-enhancements.git"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "enhancements",
+    "ui",
+    "theme",
+    "code-highlighting",
+    "export"
+  ],
+  "author": "Epic Tech AI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/epic-tech-ai-enhancements/issues"
+  },
+  "homepage": "https://github.com/yourusername/epic-tech-ai-enhancements#readme",
+  "devDependencies": {
+    "clean-css-cli": "^5.6.2",
+    "uglify-js": "^3.17.4"
+  }
+}

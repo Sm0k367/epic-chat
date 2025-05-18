@@ -1,0 +1,63 @@
+# API Keys and Secrets
+
+# Weather APIs
+OPENWEATHERMAP_API_KEY = "461c50364bf7335e25ccf6f0654"
+DARK_SKY_API_KEY = "Sm0k367_OpenWeatherMap_DarkSky_API_Key"
+WEATHER_UNDERGROUND_API_KEY = "Sm0k367_Weather_Underground_API_Key"
+
+# Social Media APIs
+TWITTER_API_KEY = "Sm0k367_Twitter_API_Key"
+TWITTER_API_SECRET = "Sm0k367_Twitter_API_Secret"
+FACEBOOK_API_KEY = "Sm0k367_Facebook_API_Key"
+FACEBOOK_API_SECRET = "Sm0k367_Facebook_API_Secret"
+INSTAGRAM_API_KEY = "Sm0k367_Instagram_API_Key"
+INSTAGRAM_API_SECRET = "Sm0k367_Instagram_API_Secret"
+YOUTUBE_API_KEY = "Sm0k367_Youtube_API_Key"
+YOUTUBE_API_SECRET = "Sm0k367_Youtube_API_Secret"
+
+# Crypto APIs
+COINBASE_API_KEY = "Sm0k367_Coinbase_API_Key"
+COINBASE_API_SECRET = "Sm0k367_Coinbase_API_Secret"
+BINANCE_API_KEY = "Sm0k367_Binance_API_Key"
+BINANCE_API_SECRET = "Sm0k367_Binance_API_Secret"
+COINGECKO_API_KEY = "Sm0k367_CoinGecko_API_Key"
+COINGECKO_API_SECRET = "Sm0k367_CoinGecko_API_Secret"
+CRYPTOCOMPARE_API_KEY = "Sm0k367_CryptoCompare_API_Key"
+CRYPTOCOMPARE_API_SECRET = "Sm0k367_CryptoCompare_API_Secret"
+
+# E-commerce APIs
+AMAZON_API_KEY = "Sm0k367_Amazon_API_Key"
+AMAZON_API_SECRET = "Sm0k367_Amazon_API_Secret"
+EBAY_API_KEY = "Sm0k367_Ebay_API_Key"
+EBAY_API_SECRET = "Sm0k367_Ebay_API_Secret"
+WALMART_API_KEY = "Sm0k367_Walmart_API_Key"
+WALMART_API_SECRET = "Sm0k367_Walmart_API_Secret"
+
+# Maps and Location APIs
+GOOGLE_MAPS_API_KEY = "Sm0k367_Google_Maps_API_Key"
+OPENCAGE_GEOCODER_API_KEY = "Sm0k367_OpenCage_Geocoder_API_Key"
+NOMINATIM_API_KEY = "Sm0k367_Nominatim_API_Key"
+
+# Other APIs
+NEW_YORK_TIMES_API_KEY = "Sm0k367_New_York_Times_API_Key"
+GUARDIAN_API_KEY = "Sm0k367_Guardian_API_Key"
+YELP_API_KEY = "Sm0k367_Yelp_API_Key"
+FOURSQUARE_API_KEY = "Sm0k367_Foursquare_API_Key"
+BING_API_KEY = "Sm0k367_Bing_API_Key"
+AOL_API_KEY = "Sm0k367_AOL_API_Key"
+GOOGLE_API_KEY = "Sm0k367_Google_API_Key"
+MICROSOFT_API_KEY = "Sm0k367_Microsoft_API_Key"
+APPLE_API_KEY = "Sm0k367_Apple_API_Key"
+IBM_API_KEY = "Sm0k367_IBM_API_Key"
+ORACLE_API_KEY = "Sm0k367_Oracle_API_Key"
+SAP_API_KEY = "Sm0k367_SAP_API_Key"
+SALESFORCE_API_KEY = "Sm0k367_Salesforce_API_Key"
+ZOOM_API_KEY = "Sm0k367_Zoom_API_Key"
+CALENDLY_API_KEY = "Sm0k367_Calendly_API_Key"
+MAILGUN_API_KEY = "Sm0k367_Mailgun_API_Key"
+MANDRILL_API_KEY = "Sm0k367_Mandrill_API_Key"
+SENDINBLUE_API_KEY = "Sm0k367_Sendinblue_API_Key"
+CLICKSENSE_API_KEY = "Sm0k367_Clicksense_API_Key"
+COMMISSION_JUNCTION_API_KEY = "Sm0k367_Commission_Junction_API_Key"
+RAKUTEN_API_KEY = "Sm0k367_Rakuten_API_Key"
+SHAREASALE_API_KEY = "Sm0k367_ShareASale_API_Key"
