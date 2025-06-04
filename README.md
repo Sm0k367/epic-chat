@@ -51,6 +51,8 @@ To start the application locally, run the following command from the project roo
 
 ```bash
 npm start
+# or
+npm run dev
 ```
 This will start a local web server and should automatically open `chat.html` in your default web browser. You can then interact with the chat interface.
 
