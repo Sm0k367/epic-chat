@@ -51,7 +51,7 @@ function loadScript(src, callback) {
 // Add enhancement styles
 const enhancementStyles = document.createElement('link');
 enhancementStyles.rel = 'stylesheet';
-enhancementStyles.href = 'theme-styles.css';
+enhancementStyles.href = '../css/theme-styles.css';
 document.head.appendChild(enhancementStyles);
 
 // Notify user that enhancements are loaded

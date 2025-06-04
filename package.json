@@ -5,8 +5,9 @@
   "main": "src/js/enhancements.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mkdir -p dist && cp -r src/* dist/",
-    "minify": "uglifyjs src/js/*.js -o dist/js/enhancements.min.js && cleancss src/css/*.css -o dist/css/theme-styles.min.css"
+    "build": "mkdir -p dist/js dist/css && cp -r src/js/* dist/js/ && cp -r src/css/* dist/css/",
+    "minify": "mkdir -p dist/js dist/css && uglifyjs src/js/*.js -o dist/js/enhancements.min.js && cleancss src/css/*.css -o dist/css/theme-styles.min.css",
+    "start": "http-server . -o chat.html"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
   "homepage": "https://github.com/yourusername/epic-tech-ai-enhancements#readme",
   "devDependencies": {
     "clean-css-cli": "^5.6.2",
-    "uglify-js": "^3.17.4"
+    "uglify-js": "^3.17.4",
+    "http-server": "^14.1.1"
   }
 }
